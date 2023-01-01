@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MohammadrezaChv
-- 👀 I’m interested in Python and other cool things in develping python ..
+- 👀 I’m interested in Python and all other cool things in develping python .
 - 🌱 I’m currently learning AI espacially Machine Learning .
-- 💞️ I’m looking to collaborate on AI project .
+- 💞️ I’m looking to collaborate on AI projects .
 - 📫 Can reach me with mohammadreza.chv7@gmail.com
 
 <!---
