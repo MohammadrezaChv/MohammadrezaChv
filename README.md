@@ -55,7 +55,6 @@ I'll be sharing my latest projects soon! Expect topics like:
 ### 📫 Connect with Me
 
 - 📧 Email: [mohammadreza.chv7@gmail.com](mailto:mohammadreza.chv7@gmail.com)
-- *(Add LinkedIn, Kaggle, or Portfolio links here if you’d like)*
 
 ---
 
